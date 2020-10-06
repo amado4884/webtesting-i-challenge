@@ -1,0 +1,14 @@
+{
+  "name": "webtesting-i-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:amado4884/webtesting-i-challenge.git",
+  "author": "Amado Guerrero <amado4884@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.5.0"
+  },
+  "scripts": {
+    "test": "jest --watch"
+  }
+}
